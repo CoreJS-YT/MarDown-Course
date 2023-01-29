@@ -72,6 +72,6 @@ function Component() {
 
 <!-- Github MD -->
 * [x] Task 1
-* [] Task 3
 * [] Task 2
+* [] Task 3
 
