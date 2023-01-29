@@ -64,7 +64,7 @@ function Component() {
 <!-- Tables -->
 |Nombre    |Nacionalidad | Edad|
 |----------|-------------|-----|
-| CopperMX | Mexicano    |32   |
+| ~~*CopperMX*~~ | Mexicano    |32   |
 | CopperEUA2 | Estadounidense | 39|
 
 <!-- Imgs -->
@@ -75,3 +75,6 @@ function Component() {
 * [ ] Task 3
 * [ ] Task 2
 
+@faztweb
+
+:smiley:
